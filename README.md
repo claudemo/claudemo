@@ -8,14 +8,13 @@ I know that coding requires strict logic, but somehow I hope to combine coding w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2023 - To: 07 October 2023
+From: 01 October 2023 - To: 08 October 2023
 
 Total Time: 30 mins
 
-GDScript3        17 mins         █████████████▓░░░░░░░░░░░   54.36 %
-Java             13 mins         ██████████▓░░░░░░░░░░░░░░   43.00 %
-Other            0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+GDScript3   17 mins         █████████████▓░░░░░░░░░░░   54.45 %
+Java        13 mins         ██████████▓░░░░░░░░░░░░░░   43.07 %
+Other       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
