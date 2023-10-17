@@ -8,15 +8,15 @@ I know that coding requires strict logic, but somehow I hope to combine coding w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2023 - To: 15 October 2023
+From: 09 October 2023 - To: 16 October 2023
 
-Total Time: 54 mins
+Total Time: 3 hrs 25 mins
 
-TypeScript   22 mins         ██████████▒░░░░░░░░░░░░░░   41.40 %
-JavaScript   16 mins         ███████▓░░░░░░░░░░░░░░░░░   30.36 %
-JSON         10 mins         █████░░░░░░░░░░░░░░░░░░░░   20.01 %
-XML          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JavaScript   2 hrs 46 mins   ████████████████████░░░░░   80.27 %
+TypeScript   22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+JSON         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+XML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
