@@ -1,5 +1,6 @@
-name: Waka Readme
-
+name: Waka - Readme
+ 
+            
 on:
   # for manual workflow trigger
   workflow_dispatch:
@@ -12,7 +13,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@v0.3.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true # optional
