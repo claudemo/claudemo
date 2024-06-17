@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-
+## WAKA Coding weekly time metrics
 ```txt
 Other         25 hrs 6 mins   ███████████████████░░░░░░   75.87 %
 Python        2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
