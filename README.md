@@ -1,8 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other    10 hrs 3 mins   ████████████████████████▓   99.25 %
-CSHTML   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Other   7 hrs 28 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka--> 
