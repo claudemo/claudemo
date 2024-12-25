@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other              23 hrs 27 mins  ██████████████░░░░░░░░░░░   56.28 %
-JavaScript         10 hrs 18 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.75 %
-Jupyter Notebook   3 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
-PHP                3 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-Python             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Other              23 hrs 19 mins  ███████████████░░░░░░░░░░   59.48 %
+JavaScript         7 hrs 53 mins   █████░░░░░░░░░░░░░░░░░░░░   20.14 %
+Jupyter Notebook   4 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+PHP                3 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Python             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka--> 
