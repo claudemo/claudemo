@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other              23 hrs 30 mins  ██████████████████▓░░░░░░   75.26 %
-Jupyter Notebook   3 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-Prisma             2 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-TypeScript         1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-JavaScript         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Other              29 hrs 21 mins  ███████████████████░░░░░░   76.01 %
+TypeScript         3 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+Jupyter Notebook   3 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+Prisma             2 hrs 26 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+JavaScript         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka--> 
